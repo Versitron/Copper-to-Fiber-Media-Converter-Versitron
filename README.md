@@ -79,4 +79,4 @@ Both single-mode and multi-mode fiber options are supported depending on the mod
 
 ## Shop Copper to Fiber Media Converters
 
-Browse the full collection of **[Versitron copper to fiber media converters](https://www.versitron.com/collections/fiber-optic-media-converters)**to find the model that fits your network requirements.
+Browse the full collection of[Versitron copper to fiber media converters](https://www.versitron.com/collections/fiber-optic-media-converters)to find the model that fits your network requirements.
